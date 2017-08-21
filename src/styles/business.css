@@ -1,0 +1,14 @@
+/*----login----*/
+#login {
+
+.div-image {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    img {
+        height: 180px;
+        width: 180px;
+    }
+}
+}
